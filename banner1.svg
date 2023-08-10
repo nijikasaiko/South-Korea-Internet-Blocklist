@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1220 200" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 1080 200" xmlns="http://www.w3.org/2000/svg">
   <style>
 @namespace svg url(http://www.w3.org/2000/svg);
 
@@ -57,7 +57,7 @@ svg|a:link, svg|a:visited {
     </text>
 
     <text x="50%" y="78.5%" dominant-baseline="middle" text-anchor="middle" class="call">
-      外務省の竹島コーナーに移動<tspan dominant-baseline="middle" class="arrow">➔</tspan>
+      外務省の竹島コーナーに移動 <tspan dominant-baseline="middle" class="arrow">➔</tspan>
     </text>
   </a>
 
