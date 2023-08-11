@@ -1,9 +1,9 @@
 # ────────────────────────────────────────────────────────────────────────────
-# ** FuckSouthKorea URL List
+# ** FuckSouthKoreaInternet URL List
 # ────────────────────────────────────────────────────────────────────────────
-# Author		ryochan0
-# Date			2023. 8. 10
-# Last Modified		2023. 8. 10
+# Author			ryochan0
+# Date				2023. 8. 10
+# Last Modified		2023. 8. 11
 # ────────────────────────────────────────────────────────────────────────────
 
 
@@ -206,7 +206,7 @@ sports-g.com
 # Car News
 global-autonews.com
 autoview.co.kr
-auto.daunet
+auto.daum.net
 autotimes.hankyung.com
 autospy.net
 motorgraph.com
@@ -321,7 +321,7 @@ zdnet.co.kr
 cnet.co.kr
 itworld.co.kr
 bloter.net
-techkr
+techm.kr
 techrecipe.co.kr
 thelec.kr
 ddaily.co.kr
@@ -331,7 +331,7 @@ ciokorea.com
 outstanding.kr
 comworld.co.kr
 itbiznews.com
-platukr
+platum.kr
 techdaily.co.kr
 techsuda.com
 venturesquare.net
@@ -365,3 +365,134 @@ natgeokorea.com
 aitimes.com
 aitimes.kr
 newstheai.com
+
+
+
+# South Korea Government
+bai.go.kr
+pss.go.kr
+pacst.go.kr
+neac.pa.go.kr
+esdc.go.kr
+nuac.go.kr
+president.go.kr
+ftc.go.kr
+pmo.go.kr
+acrc.go.kr
+fsc.go.kr
+police.go.kr
+moel.go.kr
+customs.go.kr
+moe.go.kr
+mpva.go.kr
+humanrights.go.kr
+mnd.go.kr
+nts.go.kr
+molit.go.kr
+kma.go.kr
+mosf.go.kr
+mafra.go.kr
+rda.go.kr
+spo.go.kr
+cha.go.kr
+mcst.go.kr
+kcc.go.kr
+moj.go.kr
+moleg.go.kr
+mma.go.kr
+mohw.go.kr
+forest.go.kr
+motie.go.kr
+nfa.go.kr
+mfds.go.kr
+mogef.go.kr
+mofat.go.kr
+pps.go.kr
+smba.go.kr
+kostat.go.kr
+unikorea.go.kr
+kipo.go.kr
+kcg.go.kr
+mois.go.kr
+me.go.kr
+assembly.go.kr
+finance.na.go.kr
+scourt.go.kr
+nec.go.kr
+ccourt.go.kr
+data.go.kr
+dlibrary.go.kr
+nanet.go.kr
+g4b.go.kr
+korea.go.kr
+simpan.go.kr
+
+
+
+# South Korea Local Government
+seoul.go.kr
+gwangju.go.kr
+daejeon.go.kr
+busan.go.kr
+ulsan.go.kr
+incheon.go.kr
+daegu.go.kr
+provin.gangwon.kr
+gg.go.krgg
+gyeongnam.go.kr
+gb.go.kr
+ibuk5do.go.kr
+jeonnam.go.kr
+provin.jeonbuk.kr
+jeju.go.kr
+chungnam.net
+cb21.net
+
+
+
+# South Korea Related Organization
+koscom.co.kr
+kcif.or.kr
+fss.or.kr
+kftc.or.kr
+kofia.or.kr
+kotra.or.kr
+korcham.net
+venture.or.kr
+kidi.or.kr
+kfcc.co.kr
+klia.or.kr
+software.or.kr
+knia.or.kr
+cica.or.kr
+cu.co.kr
+crefia.or.kr
+kdic.or.kr
+fsb.or.kr
+fki.or.kr
+kfb.or.kr
+nipa.kr
+kosdaqca.or.kr
+krx.co.kr
+kef.or.kr
+knto.or.kr
+ksure.or.kr
+kita.net
+ksia.or.kr
+kvca.or.kr
+koita.or.kr
+keit.re.kr
+kicox.or.kr
+klca.or.kr
+kpc.or.kr
+kca.go.kr
+sw.or.kr
+ksd.or.kr
+kamco.or.kr
+kepco.co.kr
+gokea.org
+kait.or.kr
+nia.or.kr
+komsco.com
+ksfc.co.kr
+stat.or.kr
