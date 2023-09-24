@@ -1,3 +1,1 @@
-# FuckSouthKoreaInternetBlocklist
-
-## ##Work In Progress, Please Wait##
+## Work In Progress :)
